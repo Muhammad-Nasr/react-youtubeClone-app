@@ -33,13 +33,13 @@ const obj = {
   },
 };
 
-const APIKEY = "AIzaSyC1vS45AfCksqDg7EnGZcpwatBpfdM31Uo";
+const APIKEY = "AIzaSyCvKgRfGvJxSG7U0pCKnEAt4DNGomJ9nrA";
 const BASE_URL = `https://youtube.googleapis.com/youtube/v3`;
 
 const options = {
   params: {
     maxResults: 50,
-    key: "AIzaSyC1vS45AfCksqDg7EnGZcpwatBpfdM31Uo",
+    key: "AIzaSyCvKgRfGvJxSG7U0pCKnEAt4DNGomJ9nrA",
   },
 };
 
